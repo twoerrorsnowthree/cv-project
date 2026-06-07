@@ -2,6 +2,7 @@
 
 정하 님은 보고서 작성하실 때, results.png, alpr_detection_yolo.py 사용하시면 됩니다!
 
+**사용한 모델은 'yolov8n'입니다!**
 
 ## 번호판 검출 모델 (YOLOv8) 사용법
 

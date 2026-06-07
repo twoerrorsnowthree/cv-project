@@ -6,7 +6,7 @@
 
 ## 번호판 검출 모델 (YOLOv8) 사용법
 
-학습된 가중치 `best.pt`로 번호판을 검출하고 crop하는 예시:
+`best.pt`로 번호판 검출하고 crop하는 예시:
 
 ```python
 from ultralytics import YOLO
